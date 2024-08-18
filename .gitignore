@@ -83,7 +83,9 @@ Readme.asset
 # Additional folders
 Logs/*
 UserSettings/*
+ProjectSettings/*
 Library/*
-.idea
-/Assets/Prefabs/Maps
-Assets/Prefabs/Maps.meta
+*.idea
+*.meta
+/Assets/TextMesh Pro/*
+/Assets/LootLockerSDK/*
